@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/check-slots/static/css/main.f855e6bc.css",
-    "main.js": "/check-slots/static/js/main.19efa830.js",
+    "main.js": "/check-slots/static/js/main.634c5eff.js",
     "static/js/787.d4aba7ab.chunk.js": "/check-slots/static/js/787.d4aba7ab.chunk.js",
-    "static/media/ZZ Top - Sharp Dressed Man.mp3": "/check-slots/static/media/ZZ Top - Sharp Dressed Man.b2d353e85fc83558befa.mp3",
+    "static/media/Scott-McKenzie-San-Francisco.mp3": "/check-slots/static/media/Scott-McKenzie-San-Francisco.18acc6ff97460c2a69b9.mp3",
     "static/media/logo.svg": "/check-slots/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/check-slots/index.html",
     "main.f855e6bc.css.map": "/check-slots/static/css/main.f855e6bc.css.map",
-    "main.19efa830.js.map": "/check-slots/static/js/main.19efa830.js.map",
+    "main.634c5eff.js.map": "/check-slots/static/js/main.634c5eff.js.map",
     "787.d4aba7ab.chunk.js.map": "/check-slots/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.19efa830.js"
+    "static/js/main.634c5eff.js"
   ]
 }
